@@ -1,0 +1,8 @@
+generic:
+  welcome: Bem vindo
+failures:
+  unknown: Erro desconhecido
+home:
+  title: Qual impacto positivo você deseja causar?
+  button: CONTINUAR
+  enter: Acompanhar minha compensação
