@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/fonts/Montserrat/Montserrat-Regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
 "assets/assets/fonts/Montserrat/Montserrat-SemiBold.ttf": "7ffeec2b4edb434d393875ffbe633c30",
 "assets/assets/i18n/en_US.yaml": "3ec0d83535f0519ba135b53a192e4f1d",
-"assets/assets/i18n/pt_BR.yaml": "7689357be3e3953ede6c4f2fec63fef4",
+"assets/assets/i18n/pt_BR.yaml": "cef78538f53b4f788ef12345f06d4fc0",
 "assets/assets/images/background.png": "20e7f56e8bcab5d55ce4dabd77de50f4",
 "assets/FontManifest.json": "d31bf73fb57c270d21b168afdf80c1b5",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
@@ -23,11 +23,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5d57fcaa00a2e87cfc449a6063a9d4a5",
-"/": "5d57fcaa00a2e87cfc449a6063a9d4a5",
-"main.dart.js": "7f25bd242c6ed5ac97616a92bec39da3",
+"index.html": "09f8f6b7649a91ce06bc5e808b62e927",
+"/": "09f8f6b7649a91ce06bc5e808b62e927",
+"main.dart.js": "f6b53697374326631e2ae2809cc85798",
 "manifest.json": "8c156c387f11077fd82d2a5938877b6f",
-"version.json": "c91901912bbd58305df70711f3c88948"
+"version.json": "f186b9414d91a42c84d18e1ec4a5fbf4"
 };
 
 // The application shell files that are downloaded before a service worker can

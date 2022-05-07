@@ -6,3 +6,6 @@ home:
   title: Qual impacto positivo você deseja causar?
   button: CONTINUAR
   enter: Acompanhar minha compensação
+quantity:
+  title: Qual a quantidade de impacto?
+  suggestions: Sugestões
