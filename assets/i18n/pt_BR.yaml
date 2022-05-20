@@ -9,8 +9,3 @@ home:
 quantity:
   title: Qual a quantidade de impacto?
   suggestions: Sugestões
-login:
-  email: E-mail
-  password: Senha
-  enter: Entrar
-  forgot: Esqueceu a senha
