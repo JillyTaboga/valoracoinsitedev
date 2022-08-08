@@ -15,15 +15,6 @@ const RESOURCES = {
 "assets/assets/images/SmallLogo.png": "04064de11c2615776f8e80669835e18c",
 "assets/FontManifest.json": "d31bf73fb57c270d21b168afdf80c1b5",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/fonts/Montserrat/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
-"assets/fonts/Montserrat/Montserrat-Medium.ttf": "aca6287f22eef510c1e622c97bb1e1e1",
-"assets/fonts/Montserrat/Montserrat-Regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
-"assets/fonts/Montserrat/Montserrat-SemiBold.ttf": "7ffeec2b4edb434d393875ffbe633c30",
-"assets/i18n/en_US.yaml": "3ec0d83535f0519ba135b53a192e4f1d",
-"assets/i18n/pt_BR.yaml": "cef78538f53b4f788ef12345f06d4fc0",
-"assets/images/background.png": "20e7f56e8bcab5d55ce4dabd77de50f4",
-"assets/images/logo.png": "a3bb180d6466204bcf077846287b5b82",
-"assets/images/SmallLogo.png": "04064de11c2615776f8e80669835e18c",
 "assets/NOTICES": "083eb6146e2a9056d30572ded9543662",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -35,12 +26,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "d17a1a6648b34a291488826f94b8ad4e",
 "icons/Icon-maskable-192.png": "81a644cda2330549b3fa99fb8ea3eced",
 "icons/Icon-maskable-512.png": "d17a1a6648b34a291488826f94b8ad4e",
-"index.html": "8a8415d1ec741c62af588c55c9a25695",
-"/": "8a8415d1ec741c62af588c55c9a25695",
-"main.dart.js": "fffe43632db1ac9e0984a7abca75d73f",
+"index.html": "ac2652323c2fbdf5b2a85c4211abdc26",
+"/": "ac2652323c2fbdf5b2a85c4211abdc26",
+"main.dart.js": "7664abc66b3f09ed9fde7f60083f01e1",
 "manifest.json": "8c156c387f11077fd82d2a5938877b6f",
 "mp_sdk.js": "31c57e9f0b729453d3c44f69d2532724",
-"version.json": "16880f1c412301a94d0a399fe4253311"
+"version.json": "34015ee068b573c6dcd92a88e89787d9"
 };
 
 // The application shell files that are downloaded before a service worker can
