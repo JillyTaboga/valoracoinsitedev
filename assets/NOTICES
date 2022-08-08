@@ -4948,7 +4948,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 clock
 fake_async
 material_color_utilities
-quiver
 
 
                                  Apache License
@@ -13647,7 +13646,7 @@ xml
 
 The MIT License
 
-Copyright (c) 2006-2021 Lukas Renggli.
+Copyright (c) 2006-2022 Lukas Renggli.
 All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
