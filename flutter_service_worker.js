@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "28e8eec68138adf183122eadb6a0005f",
+  "assets/AssetManifest.json": "0acf338a2a7ac37f5962d150c1c1d55d",
 "assets/assets/fonts/Montserrat/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/assets/fonts/Montserrat/Montserrat-Medium.ttf": "aca6287f22eef510c1e622c97bb1e1e1",
 "assets/assets/fonts/Montserrat/Montserrat-Regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
@@ -12,13 +12,18 @@ const RESOURCES = {
 "assets/assets/i18n/pt_BR.yaml": "b9ed62680e8fddc70dfbf2369443cdb5",
 "assets/assets/images/background.png": "20e7f56e8bcab5d55ce4dabd77de50f4",
 "assets/assets/images/comporation_b.png": "cbdfccccf7d9950f0cbcf62ca203e926",
-"assets/assets/images/logo.png": "a3bb180d6466204bcf077846287b5b82",
+"assets/assets/images/logo.png": "f8fdefe9bd3b2047f3723ce809f0b43e",
 "assets/assets/images/logo_branco_valora.png": "7b5662b9257bea26a61741854b522189",
 "assets/assets/images/mercado_pago.png": "0c5155c47be36fe03dbfaa3719ec1234",
 "assets/assets/images/SmallLogo.png": "04064de11c2615776f8e80669835e18c",
+"assets/assets/images/social_download.png": "7f2288e68a979d28344b7d1e7aaec50c",
 "assets/FontManifest.json": "d31bf73fb57c270d21b168afdf80c1b5",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "eada7bb6a1d5deb6e7f16b408e419cc1",
+"assets/NOTICES": "4a010b0fe02e3924fb1294f6def99ebe",
+"assets/packages/amplify_auth_cognito_dart/lib/src/workers/workers.min.js": "9026f7a8898fcc20e0e029f42cb94e7f",
+"assets/packages/amplify_auth_cognito_dart/lib/src/workers/workers.min.js.map": "a321afa7f5c4232356527c02709a3294",
+"assets/packages/amplify_secure_storage_dart/lib/src/worker/workers.min.js": "6b4bd1527531d31f05f1c5f21661fd96",
+"assets/packages/amplify_secure_storage_dart/lib/src/worker/workers.min.js.map": "ae4520ff528698db2e57c2bf0e9996e5",
 "assets/shaders/ink_sparkle.frag": "b92b2fa369b426e4315cec540a35f0db",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -30,12 +35,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "d17a1a6648b34a291488826f94b8ad4e",
 "icons/Icon-maskable-192.png": "81a644cda2330549b3fa99fb8ea3eced",
 "icons/Icon-maskable-512.png": "d17a1a6648b34a291488826f94b8ad4e",
-"index.html": "6b45f346b1cf7aa2748531dc304c5c33",
-"/": "6b45f346b1cf7aa2748531dc304c5c33",
-"main.dart.js": "b02ae331a7af8adc2ae8a87a224a1882",
+"index.html": "96ba659597a98ccaf9f889d97545a8e0",
+"/": "96ba659597a98ccaf9f889d97545a8e0",
+"main.dart.js": "3fdd419145d13d9dbb99a90aac9762eb",
 "manifest.json": "8c156c387f11077fd82d2a5938877b6f",
 "mp_sdk.js": "31c57e9f0b729453d3c44f69d2532724",
-"version.json": "14b773afb8014cad5604a4c48bafc3a7"
+"version.json": "70ddde9c948bde67bde0f4b6b548f496"
 };
 
 // The application shell files that are downloaded before a service worker can
