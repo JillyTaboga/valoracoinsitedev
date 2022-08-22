@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/assets/i18n/pt_BR.yaml": "b9ed62680e8fddc70dfbf2369443cdb5",
 "assets/assets/images/background.png": "20e7f56e8bcab5d55ce4dabd77de50f4",
 "assets/assets/images/comporation_b.png": "cbdfccccf7d9950f0cbcf62ca203e926",
-"assets/assets/images/logo.png": "f8fdefe9bd3b2047f3723ce809f0b43e",
+"assets/assets/images/logo.png": "23cd8b2f54c96a284e3376437234b185",
 "assets/assets/images/logo_branco_valora.png": "7b5662b9257bea26a61741854b522189",
 "assets/assets/images/mercado_pago.png": "0c5155c47be36fe03dbfaa3719ec1234",
 "assets/assets/images/SmallLogo.png": "04064de11c2615776f8e80669835e18c",
@@ -35,12 +35,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "d17a1a6648b34a291488826f94b8ad4e",
 "icons/Icon-maskable-192.png": "81a644cda2330549b3fa99fb8ea3eced",
 "icons/Icon-maskable-512.png": "d17a1a6648b34a291488826f94b8ad4e",
-"index.html": "96ba659597a98ccaf9f889d97545a8e0",
-"/": "96ba659597a98ccaf9f889d97545a8e0",
-"main.dart.js": "3fdd419145d13d9dbb99a90aac9762eb",
+"index.html": "91c92311a1c8c67f8841c6f0f70c348f",
+"/": "91c92311a1c8c67f8841c6f0f70c348f",
+"main.dart.js": "97580772d37ef50d8c9a32aad8cd8093",
 "manifest.json": "8c156c387f11077fd82d2a5938877b6f",
 "mp_sdk.js": "31c57e9f0b729453d3c44f69d2532724",
-"version.json": "70ddde9c948bde67bde0f4b6b548f496"
+"version.json": "ada18ec24a2743dd98a633d6f8b13afc"
 };
 
 // The application shell files that are downloaded before a service worker can
