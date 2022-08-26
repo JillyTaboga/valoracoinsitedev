@@ -1,0 +1,16 @@
+generic:
+  welcome: Bem vindo
+failures:
+  unknown: Erro desconhecido
+home:
+  title: Qual impacto positivo você deseja causar?
+  button: CONTINUAR
+  enter: Acompanhar minha compensação
+quantity:
+  title: Qual a quantidade de impacto?
+  suggestions: Sugestões
+login:
+  email: E-mail
+  password: Senha
+  enter: Entrar
+  forgot: Esqueceu a senha
