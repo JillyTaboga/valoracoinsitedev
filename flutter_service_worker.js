@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0acf338a2a7ac37f5962d150c1c1d55d",
+  "assets/AssetManifest.json": "69c4c76ec0763a417c6d14eabaf4527d",
 "assets/assets/fonts/Montserrat/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/assets/fonts/Montserrat/Montserrat-Medium.ttf": "aca6287f22eef510c1e622c97bb1e1e1",
 "assets/assets/fonts/Montserrat/Montserrat-Regular.ttf": "34de1239b12123b85ff1a68b58835a1f",
@@ -12,6 +12,12 @@ const RESOURCES = {
 "assets/assets/i18n/pt_BR.yaml": "b9ed62680e8fddc70dfbf2369443cdb5",
 "assets/assets/images/background.png": "20e7f56e8bcab5d55ce4dabd77de50f4",
 "assets/assets/images/comporation_b.png": "cbdfccccf7d9950f0cbcf62ca203e926",
+"assets/assets/images/impact1.png": "e531634d76be4ee064002eb35f527153",
+"assets/assets/images/impact2.png": "59a07f58ba1f9d73748787e2d531363e",
+"assets/assets/images/impact3.png": "99fa7ecd44f48966c1b1bb717e40dc5b",
+"assets/assets/images/impact4.png": "c7287bf8234fc8091ddac8a187c634de",
+"assets/assets/images/impact5.png": "a628300f0043981d13755f56e8183c2d",
+"assets/assets/images/impact6.png": "0f91f11e5a714e81cbdadae9bf70294e",
 "assets/assets/images/logo.png": "dc325585e24d4ef94ea67c0b6ee45387",
 "assets/assets/images/logo_branco_valora.png": "7b5662b9257bea26a61741854b522189",
 "assets/assets/images/mercado_pago.png": "0c5155c47be36fe03dbfaa3719ec1234",
@@ -19,7 +25,7 @@ const RESOURCES = {
 "assets/assets/images/social_download.png": "7f2288e68a979d28344b7d1e7aaec50c",
 "assets/FontManifest.json": "d31bf73fb57c270d21b168afdf80c1b5",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "4a010b0fe02e3924fb1294f6def99ebe",
+"assets/NOTICES": "60a27837574ab992e3a02be107588382",
 "assets/packages/amplify_auth_cognito_dart/lib/src/workers/workers.min.js": "9026f7a8898fcc20e0e029f42cb94e7f",
 "assets/packages/amplify_auth_cognito_dart/lib/src/workers/workers.min.js.map": "a321afa7f5c4232356527c02709a3294",
 "assets/packages/amplify_secure_storage_dart/lib/src/worker/workers.min.js": "6b4bd1527531d31f05f1c5f21661fd96",
@@ -35,12 +41,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "d17a1a6648b34a291488826f94b8ad4e",
 "icons/Icon-maskable-192.png": "81a644cda2330549b3fa99fb8ea3eced",
 "icons/Icon-maskable-512.png": "d17a1a6648b34a291488826f94b8ad4e",
-"index.html": "122df968134a64cf7d63f8c25520a19e",
-"/": "122df968134a64cf7d63f8c25520a19e",
-"main.dart.js": "22bcad4e0dbb8d2c648ea5e1ac6ac4fe",
+"index.html": "696f4b171e739a5ea8c6eda93776544b",
+"/": "696f4b171e739a5ea8c6eda93776544b",
+"main.dart.js": "5fc12164a453f4b9723b935e0cb7597a",
 "manifest.json": "8c156c387f11077fd82d2a5938877b6f",
 "mp_sdk.js": "31c57e9f0b729453d3c44f69d2532724",
-"version.json": "3662fdc437a485c53d6f3b76cf780ac1"
+"version.json": "84cf4f2df7ecf2353f2788a2a0f6a6bb"
 };
 
 // The application shell files that are downloaded before a service worker can
